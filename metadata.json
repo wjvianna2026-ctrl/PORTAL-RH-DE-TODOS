@@ -1,0 +1,8 @@
+{
+  "name": "PORTAL RH DE TODOS",
+  "description": "Portal Oficial de RH, Endomarketing e Gamificação da Cavalcante & Rolim Empreendimentos (Signature Spaces).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
